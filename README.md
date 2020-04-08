@@ -6,4 +6,5 @@ I used the concepts of NLP and Neural Network to build it.
 
 The intents file that we used for training is made by us.
 
-This chatbot is primarly focused for an CyberSecurity based Industry. It cab be a service privider chatbot by using which you can know which kind of services does the Cyber Industry provide.
+This chatbot is primarly focused for an CyberSecurity based Industry. It cab be a service privider chatbot by using which you can know which kind of services does the Cyber Industry provide. Also you can use this intent file to know some basic terminologies in Cyber Industry like ;
+What is cryptography ? , What is Hashing ? , etc. 
