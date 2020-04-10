@@ -13,6 +13,15 @@ The intents file that we used for training is made by us.
 5. pip3 install random
 6. pip3 install json
 
+# Use Cases
+In this technological world every industry run behind AI and automation. One of the best application of integration of AI and Automation would be Chatbots. These are heavily used now-a-days. There are many diferent use cases of Chatbots in indutries. Some of them are,
+
+1. Saves labour work
+2. Provides 24x7 support
+3. Instant service
+4. Can entertain more number of people at same time
+5. Easy Communication, etc
+
 # How to run ?
 To run this application you can use jupyter notebook and open this file with jupyter notebook. Run each cell of notebook.
 After you run every cell, you can call response() method and put your query within it.
