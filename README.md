@@ -13,6 +13,12 @@ The intents file that we used for training is made by us.
 5. pip3 install random
 6. pip3 install json
 
+# How to run ?
+To run this application you can use jupyter notebook and open this file with jupyter notebook. Run each cell of notebook.
+After you run every cell, you can call response() method and put your query within it.
+for eg : response("Which services do you provide?")
+
+
 This chatbot is primarly focused for an CyberSecurity based Industry. It can be a customer care Chatbot by using which you can know which kind of services does the Cyber Industry provides. Also you can use this chatbot to know some basic terminologies in Cyber Industry like ;
 What is cryptography ?, What is Hashing ?, etc. 
 
