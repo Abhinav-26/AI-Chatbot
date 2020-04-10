@@ -17,6 +17,7 @@ The intents file that we used for training is made by us.
 To run this application you can use jupyter notebook and open this file with jupyter notebook. Run each cell of notebook.
 After you run every cell, you can call response() method and put your query within it.
 for eg : 
+
 response("Which services do you provide?")
 
 
