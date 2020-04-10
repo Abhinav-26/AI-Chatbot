@@ -176,6 +176,16 @@
             "tag": "computer virus",
             "patterns": [ "what is computer virus?", "What do you mean by computer virus?","Define Computer Virus" ],
             "responses": [ "A computer virus, much like a flu virus, is designed to spread from host to host and has the ability to replicate itself. Similarly, in the same way that flu viruses cannot reproduce without a host cell, computer viruses cannot reproduce and spread without programming such as a file or document." ]
+        },
+        {
+            "tag": "Features of a Cybersecurity",
+            "patterns": [ "Important Features of a Cybersecurity?", "Why we need CyberSecurity ?", "Whta are features of CyberSecurity?" ],
+            "responses": [ "1.Good Analytics, 2.Coverage of your biggest external threats, 3.A defense against internal threats, 4.Compliance, 5.Manage risk across your entire ecosystem, 6.Threat prevention, detection, and response, 7.Continuous monitoring" ]
+        },
+        {
+            "tag": "Benefits of cybersecurity",
+            "patterns": [ "What are the Benefits of cybersecurity?", "uses of cyber security?" ],
+            "responses": [ "1.Business protection against malware, ransomware, phishing and social engineering, 2.Protection for data and networks, 3.Prevention of unauthorized users, 4.Improves recovery time after a breach, 5.Protection for end-users" ]
         }
     ]
 }
