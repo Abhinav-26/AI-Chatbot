@@ -30,10 +30,10 @@ for eg :
 response("Which services do you provide?")
 
 
-This chatbot is primarly focused for an CyberSecurity based Industry. It can be a customer care Chatbot by using which you can know which kind of services does the Cyber Industry provides. Also you can use this chatbot to know some basic terminologies in Cyber Industry like ;
+This Chatbot is primarly focused for an CyberSecurity based Industry. It can be a customer care Chatbot by using which you can know which kind of services does the Cyber Industry provides. Also you can use this chatbot to know some basic terminologies in Cyber Industry like ;
 What is cryptography ?, What is Hashing ?, etc. 
 
-Also by using Flask or with other technologies you can use this chatbot to embeed in your website and can change the intent file as per your requirement and enhace the performance of your website.
+Also by using Flask or with other web technologies you can use this chatbot to embeed in your website and can change the intent file as per your requirement and enhace the performance of your website.
 Now-a-days everything getting automated. One of the best example of automation would be Chatbots. In this technological world where every thing is being automated you can also automate customer services by using an AI Chatbot. 
 
 
